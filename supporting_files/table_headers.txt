@@ -1,0 +1,5 @@
+Time (self._datetime_format)	Time (s)	Time (min)	Time (hour)	Process value (°C)	Setpoint value (°C)
+
+Time (self._datetime_format)	Time (s)	Time (min)	Time (hour)	Command
+datetime_1	0 	0	0	START
+datetime_2	30	0.5	0.0083	COMMAND_2
